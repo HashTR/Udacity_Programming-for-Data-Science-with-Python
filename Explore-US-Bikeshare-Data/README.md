@@ -13,8 +13,6 @@ bikeshare.py
 ### Data Files Used
 chicago.csv, new_york_city.csv, washington.csv
 
-### Data Files Link
-https://drive.google.com/drive/folders/18LO6p2VckKw526RG6ISP5WxhBGnG-C8Y?usp=sharing
 
 ### Note
-For running the project the data files should be put in the same parent folder with the script file
+For running the project the data files should be extracted first and then put in the same parent folder with the script file
