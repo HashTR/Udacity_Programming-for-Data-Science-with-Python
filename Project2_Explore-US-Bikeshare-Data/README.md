@@ -4,7 +4,7 @@
 This project has been created at 18/03/2020.
 
 ### Description
-For sample data files from bikeshare company, Python script is used to bring some descriptive statistics by Pandas DataFrames filters.
+For sample data files from bikeshare company, Python script is written to bring some descriptive statistics by Pandas DataFrames filters.
 This project is a part of 'Programming for Data Science with Python Nanodegree Program' on Udacity
 
 ### Script File
