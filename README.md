@@ -2,7 +2,7 @@
 
 
 
-## [Project1: (Predicting Catalog Demand)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project1_Predicting-Catalog-Demand)
+## [Project1: (Explore-US-Bikeshare-Data)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project1_Predicting-Catalog-Demand)
 Predicting profit that will be expected to earn from sending out a catalog to new customers.
 
 ## [Project2: (Explore-US-Bikeshare-Data)](https://github.com/HashTR/Udacity_Predictive-Analytics-for-Business/tree/main/Project2_Create-an-Analytical-Dataset)
